@@ -88,6 +88,7 @@ plt.title("Customer Segments")
 
 ## K means clusters
 ![image](https://github.com/barathsubramani/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118542617/5b5fd28b-b22d-48ec-b392-4a9e283ea137)
+
 ![image](https://github.com/barathsubramani/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118542617/587f4daa-b629-4869-8e3c-b8cae5654fea)
 
 
